@@ -1,4 +1,4 @@
-thebitlifecoin (tbl) is a cryptocurrency.
+thebitlifecoin (TBL) is a cryptocurrency.
 
 Installation
 ===========================
