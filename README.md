@@ -55,4 +55,7 @@ daemon=1
 
 10) Run the Coin Server using ./thebitlifecoind command
 
+RPC port : 30154
+P2P port : 30153
+
 List of API call list can be found here : https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_list
